@@ -1,0 +1,13 @@
+{
+  "/_not-found": "app/_not-found.js",
+  "/(dashboard)/profile/page": "app/(dashboard)/profile/page.js",
+  "/api/opportunities/route": "app/api/opportunities/route.js",
+  "/auth/callback/route": "app/auth/callback/route.js",
+  "/(dashboard)/scholarships/[id]/apply/page": "app/(dashboard)/scholarships/[id]/apply/page.js",
+  "/login/page": "app/login/page.js",
+  "/page": "app/page.js",
+  "/(dashboard)/opportunities/[id]/apply/page": "app/(dashboard)/opportunities/[id]/apply/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/admin/dashboard/page": "app/admin/dashboard/page.js",
+  "/admin/opportunities/page": "app/admin/opportunities/page.js"
+}
